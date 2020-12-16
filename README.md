@@ -3,4 +3,4 @@ This Repository Is A Part Of An Exercise To Build A Personal Website Highlightin
 # Link to personal website:
 https://namitnaik.github.io/CV/
 
-![alt text](CV/Screenshot_2020-12-16 Namit's Personal Site.png)
+![alt text](https://github.com/NamitNaik/CV/blob/master/Screenshot_2020-12-16%20Namit's%20Personal%20Site.png)
