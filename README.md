@@ -2,4 +2,4 @@
 This Repository Is A Part Of An Exercise To Build A Personal Website Highlighting CV Just By Using Advanced HTML.
 # Link to personal website:
 https://namitnaik.github.io/CV/
-<img src=“https://github.com/NamitNaik/CV/blob/master/Screenshot_2020-12-16%20Namit's%20Personal%20Site.png”>
+![Test Image 1](Screenshot_2020-12-16 Namit's Personal Site.png)
