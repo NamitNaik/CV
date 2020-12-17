@@ -1,5 +1,5 @@
 # CV
-This Repository Is A Part Of An Exercise To Build A Personal Website Highlighting CV Just By Using Advanced HTML.
+This repository is a part of an exercise to build a personal website highlighting CV just by using advanced HTML
 ## Link to Personal Website:
 https://namitnaik.github.io/CV/
 
