@@ -11,4 +11,4 @@ https://namitnaik.github.io/CV/
 ![hobbies.html](https://github.com/NamitNaik/CV/blob/master/Screenshot_2020-12-17%20My%20Hobbies.png)
 ## contact.html:
 
-![contact.html](hhttps://github.com/NamitNaik/CV/blob/master/Screenshot_2020-12-17%20My%20Contact%20Details.png)
+![contact.html](https://github.com/NamitNaik/CV/blob/master/Screenshot_2020-12-17%20My%20Contact%20Details.png)
